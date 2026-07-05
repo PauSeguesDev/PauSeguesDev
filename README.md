@@ -1,6 +1,6 @@
 # Pau Segués Vitutia
 
-💼 Working at **[Nordkat](https://nordkat.cat)** as **full-stack developer**
+💼 Working at **[Nordkat](https://nordkat.cat)** as **full-stack developer**  
 📍 Based in **Solsona, Catalonia, Spain**  
 🎂 Born on **July 24th, 2005** — I’m **20 years old**
 
